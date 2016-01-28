@@ -1,0 +1,15 @@
+{
+    "name": "guiassemany/lux",
+    "description": "Lux PHP Framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Guilherme Assemany",
+            "email": "guilhermeassemany@hotmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "symfony/http-foundation": "^3.0"
+    }
+}
